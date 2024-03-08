@@ -36,7 +36,7 @@ const Index = () => {
 
       <Container maxW="container.xl" centerContent py={20}>
         <Box position="relative" textAlign="center">
-          <Image src="https://images.unsplash.com/photo-1579785627790-59a81c99aab7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxzdGFja2VkJTIwcGFyY2Vsc3xlbnwwfHx8fDE3MDk4OTE4MjB8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Stacked parcels" size="xl" fallbackSrc="https://via.placeholder.com/150" objectFit="cover" borderRadius="md" boxShadow="2xl" />
+          <Image src="https://www.airmee.com/en/app/routes/about/assets/about_hero_1920.jpg" alt="Stacked parcels" width="100%" height="auto" fallbackSrc="https://via.placeholder.com/150" objectFit="cover" />
           <Heading as="h1" size="4xl" color="white" fontWeight="bold" position="absolute" top="50%" left="50%" transform="translate(-50%, -50%)">
             21,042,391 deliveries.
             <br />
